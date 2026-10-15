@@ -30,3 +30,7 @@ The cell-type annotation used for deconvolution comes from the original study: J
 Tested with R 4.3.3 and RStudio 2023.12.1. Follow the [setup page](https://erkinacar5.github.io/sbc_course_2024/00_setup_sboc_ss2024.html) to create an `renv` project, then place the downloaded files in an `exercise_material/` folder next to the `.Rmd` files.
 
 Main packages: [Seurat](https://satijalab.org/seurat/), [SeuratDisk](https://github.com/mojaveazure/seurat-disk), [spacexr (RCTD)](https://github.com/dmcable/spacexr), [ISCHIA](https://github.com/ati-lz/ISCHIA), tidyverse and patchwork.
+
+## License
+
+The tutorials are licensed under [CC BY 4.0](LICENSE): you can reuse and adapt them with attribution. The 10x Genomics datasets they use are covered by their own terms.
